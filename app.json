@@ -1,5 +1,5 @@
 {
-  "name": "MT Rename Bot",
+  "name": "TG Rename Bot",
   "description": "Telegram's best Open Source Rename Bot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -8,8 +8,8 @@
     "source",
     "Rename"
   ],
-  "success_url": "https://t.me/MO_TECH_GROUP",
-  "website": "https://github.com/MoTechYT",
+  "success_url": "https://t.me/FilmygodHindiHDMovie",
+  "website": "https://github.com/tgfilmygod02",
   "repository": "https://github.com/tgfilmygod02/MT-Rename-Bot",
   "env": {
     "WEBHOOK": {
@@ -25,15 +25,15 @@
       "value": ""
     },
     "APP_ID": {
-      "description": "Get this value from https://my.telegram.org & @MT_MyTelegramOrg_Bot",
+      "description": "Get this value from https://my.telegram.org",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org & @MT_MyTelegramOrg_Bot",
+      "description": "Get this value from https://my.telegram.org",
       "value": ""
     },
     "AUTH_USERS": {
-      "description": "allow only pre-defined users to use this bot & @MT_SHOWJSON_BOT",
+      "description": "allow only pre-defined users to use this bot",
       "value": ""
     },
     "BANNED_USERS": {
