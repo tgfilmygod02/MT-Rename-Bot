@@ -6,16 +6,8 @@ Deploy To Hereku👇
 </p>
 </details>
 
-
-<details><summary>Any Bugs</summary>
-<p>
-<pre>
-If you Find Any Bugs Or Want to Give Your Feedbacks Then Kindly Contact Me Through
-
-[Telegram](https://telegram.dog/No_OnE_Kn0wS_Me) 
-
 Also Support Our
-[Mo Tech YT](https://telegram.dog/FilmygodHindiHDMovie) 
+(https://telegram.dog/FilmygodHindiHDMovie) 
 </pre>
 </p>
 </details>
